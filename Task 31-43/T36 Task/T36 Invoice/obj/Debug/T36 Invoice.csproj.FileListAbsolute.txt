@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T36 Task\T36 Invoice\bin\Debug\T36 Invoice.exe.config
+C:\Users\dell\Documents\OOP Assignments\T36 Task\T36 Invoice\bin\Debug\T36 Invoice.exe
+C:\Users\dell\Documents\OOP Assignments\T36 Task\T36 Invoice\bin\Debug\T36 Invoice.pdb
+C:\Users\dell\Documents\OOP Assignments\T36 Task\T36 Invoice\obj\Debug\T36 Invoice.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T36 Task\T36 Invoice\obj\Debug\T36 Invoice.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T36 Task\T36 Invoice\obj\Debug\T36 Invoice.exe
+C:\Users\dell\Documents\OOP Assignments\T36 Task\T36 Invoice\obj\Debug\T36 Invoice.pdb

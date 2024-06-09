@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T43 Task\T43 Bonus task\bin\Debug\T43 Bonus task.exe.config
+C:\Users\dell\Documents\OOP Assignments\T43 Task\T43 Bonus task\bin\Debug\T43 Bonus task.exe
+C:\Users\dell\Documents\OOP Assignments\T43 Task\T43 Bonus task\bin\Debug\T43 Bonus task.pdb
+C:\Users\dell\Documents\OOP Assignments\T43 Task\T43 Bonus task\obj\Debug\T43 Bonus task.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T43 Task\T43 Bonus task\obj\Debug\T43 Bonus task.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T43 Task\T43 Bonus task\obj\Debug\T43 Bonus task.exe
+C:\Users\dell\Documents\OOP Assignments\T43 Task\T43 Bonus task\obj\Debug\T43 Bonus task.pdb

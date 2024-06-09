@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T13 Task\T13 Elevator\bin\Debug\T13 Elevator.exe.config
+C:\Users\dell\Documents\OOP Assignments\T13 Task\T13 Elevator\bin\Debug\T13 Elevator.exe
+C:\Users\dell\Documents\OOP Assignments\T13 Task\T13 Elevator\bin\Debug\T13 Elevator.pdb
+C:\Users\dell\Documents\OOP Assignments\T13 Task\T13 Elevator\obj\Debug\T13 Elevator.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T13 Task\T13 Elevator\obj\Debug\T13 Elevator.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T13 Task\T13 Elevator\obj\Debug\T13 Elevator.exe
+C:\Users\dell\Documents\OOP Assignments\T13 Task\T13 Elevator\obj\Debug\T13 Elevator.pdb

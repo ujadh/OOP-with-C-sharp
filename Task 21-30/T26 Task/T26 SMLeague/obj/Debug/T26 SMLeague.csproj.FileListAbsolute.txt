@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T26 Task\T26 SMLeague\bin\Debug\T26 SMLeague.exe.config
+C:\Users\dell\Documents\OOP Assignments\T26 Task\T26 SMLeague\bin\Debug\T26 SMLeague.exe
+C:\Users\dell\Documents\OOP Assignments\T26 Task\T26 SMLeague\bin\Debug\T26 SMLeague.pdb
+C:\Users\dell\Documents\OOP Assignments\T26 Task\T26 SMLeague\obj\Debug\T26 SMLeague.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T26 Task\T26 SMLeague\obj\Debug\T26 SMLeague.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T26 Task\T26 SMLeague\obj\Debug\T26 SMLeague.exe
+C:\Users\dell\Documents\OOP Assignments\T26 Task\T26 SMLeague\obj\Debug\T26 SMLeague.pdb

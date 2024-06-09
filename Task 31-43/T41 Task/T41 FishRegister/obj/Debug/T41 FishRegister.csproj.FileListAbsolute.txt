@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\OOP Assignments\T41 Task\T41 FishRegister\bin\Debug\T41 FishRegister.exe.config
+C:\Users\dell\Documents\OOP Assignments\T41 Task\T41 FishRegister\bin\Debug\T41 FishRegister.exe
+C:\Users\dell\Documents\OOP Assignments\T41 Task\T41 FishRegister\bin\Debug\T41 FishRegister.pdb
+C:\Users\dell\Documents\OOP Assignments\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.exe
+C:\Users\dell\Documents\OOP Assignments\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.pdb
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T41 Task\T41 FishRegister\bin\Debug\T41 FishRegister.exe.config
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T41 Task\T41 FishRegister\bin\Debug\T41 FishRegister.exe
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T41 Task\T41 FishRegister\bin\Debug\T41 FishRegister.pdb
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.exe
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T41 Task\T41 FishRegister\obj\Debug\T41 FishRegister.pdb

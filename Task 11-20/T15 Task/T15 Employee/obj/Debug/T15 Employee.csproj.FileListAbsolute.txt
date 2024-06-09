@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T15 Task\T15 Employee\bin\Debug\T15 Employee.exe.config
+C:\Users\dell\Documents\OOP Assignments\T15 Task\T15 Employee\bin\Debug\T15 Employee.exe
+C:\Users\dell\Documents\OOP Assignments\T15 Task\T15 Employee\bin\Debug\T15 Employee.pdb
+C:\Users\dell\Documents\OOP Assignments\T15 Task\T15 Employee\obj\Debug\T15 Employee.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T15 Task\T15 Employee\obj\Debug\T15 Employee.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T15 Task\T15 Employee\obj\Debug\T15 Employee.exe
+C:\Users\dell\Documents\OOP Assignments\T15 Task\T15 Employee\obj\Debug\T15 Employee.pdb

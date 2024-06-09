@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\Task1\T1 School number\bin\Debug\T1 School number.exe.config
+C:\Users\dell\Documents\OOP Assignments\Task1\T1 School number\bin\Debug\T1 School number.exe
+C:\Users\dell\Documents\OOP Assignments\Task1\T1 School number\bin\Debug\T1 School number.pdb
+C:\Users\dell\Documents\OOP Assignments\Task1\T1 School number\obj\Debug\T1 School number.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\Task1\T1 School number\obj\Debug\T1 School number.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\Task1\T1 School number\obj\Debug\T1 School number.exe
+C:\Users\dell\Documents\OOP Assignments\Task1\T1 School number\obj\Debug\T1 School number.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\T11 CD\T11 Task\bin\Debug\T11 Task.exe.config
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\T11 CD\T11 Task\bin\Debug\T11 Task.exe
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\T11 CD\T11 Task\bin\Debug\T11 Task.pdb
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\T11 CD\T11 Task\obj\Debug\T11 Task.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\T11 CD\T11 Task\obj\Debug\T11 Task.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\T11 CD\T11 Task\obj\Debug\T11 Task.exe
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\T11 CD\T11 Task\obj\Debug\T11 Task.pdb

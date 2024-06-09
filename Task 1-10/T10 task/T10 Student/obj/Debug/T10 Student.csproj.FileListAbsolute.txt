@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T10 task\T10 Student\bin\Debug\T10 Student.exe.config
+C:\Users\dell\Documents\OOP Assignments\T10 task\T10 Student\bin\Debug\T10 Student.exe
+C:\Users\dell\Documents\OOP Assignments\T10 task\T10 Student\bin\Debug\T10 Student.pdb
+C:\Users\dell\Documents\OOP Assignments\T10 task\T10 Student\obj\Debug\T10 Student.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T10 task\T10 Student\obj\Debug\T10 Student.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T10 task\T10 Student\obj\Debug\T10 Student.exe
+C:\Users\dell\Documents\OOP Assignments\T10 task\T10 Student\obj\Debug\T10 Student.pdb

@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\OOP Assignments\T31 Task\T31 Random\bin\Debug\T31 Random.exe.config
+C:\Users\dell\Documents\OOP Assignments\T31 Task\T31 Random\bin\Debug\T31 Random.exe
+C:\Users\dell\Documents\OOP Assignments\T31 Task\T31 Random\bin\Debug\T31 Random.pdb
+C:\Users\dell\Documents\OOP Assignments\T31 Task\T31 Random\obj\Debug\T31 Random.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T31 Task\T31 Random\obj\Debug\T31 Random.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T31 Task\T31 Random\obj\Debug\T31 Random.exe
+C:\Users\dell\Documents\OOP Assignments\T31 Task\T31 Random\obj\Debug\T31 Random.pdb
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T31 Task\T31 Random\bin\Debug\T31 Random.exe.config
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T31 Task\T31 Random\bin\Debug\T31 Random.exe
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T31 Task\T31 Random\bin\Debug\T31 Random.pdb
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T31 Task\T31 Random\obj\Debug\T31 Random.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T31 Task\T31 Random\obj\Debug\T31 Random.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T31 Task\T31 Random\obj\Debug\T31 Random.exe
+C:\Users\dell\Documents\OOP Assignments\ttc8440-oop\Task 31-43\T31 Task\T31 Random\obj\Debug\T31 Random.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T32 Task\T32 Delegate\bin\Debug\T32 Delegate.exe.config
+C:\Users\dell\Documents\OOP Assignments\T32 Task\T32 Delegate\bin\Debug\T32 Delegate.exe
+C:\Users\dell\Documents\OOP Assignments\T32 Task\T32 Delegate\bin\Debug\T32 Delegate.pdb
+C:\Users\dell\Documents\OOP Assignments\T32 Task\T32 Delegate\obj\Debug\T32 Delegate.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T32 Task\T32 Delegate\obj\Debug\T32 Delegate.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T32 Task\T32 Delegate\obj\Debug\T32 Delegate.exe
+C:\Users\dell\Documents\OOP Assignments\T32 Task\T32 Delegate\obj\Debug\T32 Delegate.pdb

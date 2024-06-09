@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T2 Task\T2 Hill jumping\bin\Debug\T2 Hill jumping.exe.config
+C:\Users\dell\Documents\OOP Assignments\T2 Task\T2 Hill jumping\bin\Debug\T2 Hill jumping.exe
+C:\Users\dell\Documents\OOP Assignments\T2 Task\T2 Hill jumping\bin\Debug\T2 Hill jumping.pdb
+C:\Users\dell\Documents\OOP Assignments\T2 Task\T2 Hill jumping\obj\Debug\T2 Hill jumping.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T2 Task\T2 Hill jumping\obj\Debug\T2 Hill jumping.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T2 Task\T2 Hill jumping\obj\Debug\T2 Hill jumping.exe
+C:\Users\dell\Documents\OOP Assignments\T2 Task\T2 Hill jumping\obj\Debug\T2 Hill jumping.pdb

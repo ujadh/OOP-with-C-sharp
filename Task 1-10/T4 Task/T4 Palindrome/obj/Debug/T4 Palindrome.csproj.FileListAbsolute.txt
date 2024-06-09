@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T4 Task\T4 Palindrome\bin\Debug\T4 Palindrome.exe.config
+C:\Users\dell\Documents\OOP Assignments\T4 Task\T4 Palindrome\bin\Debug\T4 Palindrome.exe
+C:\Users\dell\Documents\OOP Assignments\T4 Task\T4 Palindrome\bin\Debug\T4 Palindrome.pdb
+C:\Users\dell\Documents\OOP Assignments\T4 Task\T4 Palindrome\obj\Debug\T4 Palindrome.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T4 Task\T4 Palindrome\obj\Debug\T4 Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T4 Task\T4 Palindrome\obj\Debug\T4 Palindrome.exe
+C:\Users\dell\Documents\OOP Assignments\T4 Task\T4 Palindrome\obj\Debug\T4 Palindrome.pdb

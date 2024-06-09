@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T12 Task\T12 Tank\obj\Debug\T12 Tank.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T12 Task\T12 Tank\obj\Debug\T12 Tank.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T12 Task\T12 Tank\bin\Debug\T12 Tank.exe.config
+C:\Users\dell\Documents\OOP Assignments\T12 Task\T12 Tank\bin\Debug\T12 Tank.exe
+C:\Users\dell\Documents\OOP Assignments\T12 Task\T12 Tank\bin\Debug\T12 Tank.pdb
+C:\Users\dell\Documents\OOP Assignments\T12 Task\T12 Tank\obj\Debug\T12 Tank.exe
+C:\Users\dell\Documents\OOP Assignments\T12 Task\T12 Tank\obj\Debug\T12 Tank.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T8 Task\T8 Television\bin\Debug\T8 Television.exe.config
+C:\Users\dell\Documents\OOP Assignments\T8 Task\T8 Television\bin\Debug\T8 Television.exe
+C:\Users\dell\Documents\OOP Assignments\T8 Task\T8 Television\bin\Debug\T8 Television.pdb
+C:\Users\dell\Documents\OOP Assignments\T8 Task\T8 Television\obj\Debug\T8 Television.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T8 Task\T8 Television\obj\Debug\T8 Television.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T8 Task\T8 Television\obj\Debug\T8 Television.exe
+C:\Users\dell\Documents\OOP Assignments\T8 Task\T8 Television\obj\Debug\T8 Television.pdb

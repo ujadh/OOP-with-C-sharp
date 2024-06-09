@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T38 Task\T38 Wooden Window\bin\Debug\T38 Wooden Window.exe.config
+C:\Users\dell\Documents\OOP Assignments\T38 Task\T38 Wooden Window\bin\Debug\T38 Wooden Window.exe
+C:\Users\dell\Documents\OOP Assignments\T38 Task\T38 Wooden Window\bin\Debug\T38 Wooden Window.pdb
+C:\Users\dell\Documents\OOP Assignments\T38 Task\T38 Wooden Window\obj\Debug\T38 Wooden Window.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T38 Task\T38 Wooden Window\obj\Debug\T38 Wooden Window.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T38 Task\T38 Wooden Window\obj\Debug\T38 Wooden Window.exe
+C:\Users\dell\Documents\OOP Assignments\T38 Task\T38 Wooden Window\obj\Debug\T38 Wooden Window.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T24 Task\T24 Vehicle\bin\Debug\T24 Vehicle.exe.config
+C:\Users\dell\Documents\OOP Assignments\T24 Task\T24 Vehicle\bin\Debug\T24 Vehicle.exe
+C:\Users\dell\Documents\OOP Assignments\T24 Task\T24 Vehicle\bin\Debug\T24 Vehicle.pdb
+C:\Users\dell\Documents\OOP Assignments\T24 Task\T24 Vehicle\obj\Debug\T24 Vehicle.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T24 Task\T24 Vehicle\obj\Debug\T24 Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T24 Task\T24 Vehicle\obj\Debug\T24 Vehicle.exe
+C:\Users\dell\Documents\OOP Assignments\T24 Task\T24 Vehicle\obj\Debug\T24 Vehicle.pdb

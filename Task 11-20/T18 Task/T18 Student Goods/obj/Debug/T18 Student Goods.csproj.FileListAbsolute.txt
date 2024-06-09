@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T18 Task\T18 Student Goods\obj\Debug\T18 Student Goods.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T18 Task\T18 Student Goods\obj\Debug\T18 Student Goods.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T18 Task\T18 Student Goods\bin\Debug\T18 Student Goods.exe.config
+C:\Users\dell\Documents\OOP Assignments\T18 Task\T18 Student Goods\bin\Debug\T18 Student Goods.exe
+C:\Users\dell\Documents\OOP Assignments\T18 Task\T18 Student Goods\bin\Debug\T18 Student Goods.pdb
+C:\Users\dell\Documents\OOP Assignments\T18 Task\T18 Student Goods\obj\Debug\T18 Student Goods.exe
+C:\Users\dell\Documents\OOP Assignments\T18 Task\T18 Student Goods\obj\Debug\T18 Student Goods.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T29 Task\T29 Cashier\bin\Debug\T29 Cashier.exe.config
+C:\Users\dell\Documents\OOP Assignments\T29 Task\T29 Cashier\bin\Debug\T29 Cashier.exe
+C:\Users\dell\Documents\OOP Assignments\T29 Task\T29 Cashier\bin\Debug\T29 Cashier.pdb
+C:\Users\dell\Documents\OOP Assignments\T29 Task\T29 Cashier\obj\Debug\T29 Cashier.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T29 Task\T29 Cashier\obj\Debug\T29 Cashier.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T29 Task\T29 Cashier\obj\Debug\T29 Cashier.exe
+C:\Users\dell\Documents\OOP Assignments\T29 Task\T29 Cashier\obj\Debug\T29 Cashier.pdb

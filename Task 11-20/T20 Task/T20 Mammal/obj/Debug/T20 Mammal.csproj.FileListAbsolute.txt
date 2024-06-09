@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T20 Task\T20 Mammal\bin\Debug\T20 Mammal.exe.config
+C:\Users\dell\Documents\OOP Assignments\T20 Task\T20 Mammal\bin\Debug\T20 Mammal.exe
+C:\Users\dell\Documents\OOP Assignments\T20 Task\T20 Mammal\bin\Debug\T20 Mammal.pdb
+C:\Users\dell\Documents\OOP Assignments\T20 Task\T20 Mammal\obj\Debug\T20 Mammal.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T20 Task\T20 Mammal\obj\Debug\T20 Mammal.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T20 Task\T20 Mammal\obj\Debug\T20 Mammal.exe
+C:\Users\dell\Documents\OOP Assignments\T20 Task\T20 Mammal\obj\Debug\T20 Mammal.pdb

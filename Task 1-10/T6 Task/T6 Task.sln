@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T6 Sauna Heater", "T6 Sauna Heater\T6 Sauna Heater.csproj", "{0C36BB32-BFBB-4BAF-BDCF-1F24B13C8DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C36BB32-BFBB-4BAF-BDCF-1F24B13C8DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C36BB32-BFBB-4BAF-BDCF-1F24B13C8DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C36BB32-BFBB-4BAF-BDCF-1F24B13C8DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C36BB32-BFBB-4BAF-BDCF-1F24B13C8DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6277A1D1-CC63-4547-AF8C-CE8EE2FF54D9}
+	EndGlobalSection
+EndGlobal

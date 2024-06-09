@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T19 Task\T19 Collection\obj\Debug\T19 Collection.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T19 Task\T19 Collection\obj\Debug\T19 Collection.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T19 Task\T19 Collection\bin\Debug\T19 Collection.exe.config
+C:\Users\dell\Documents\OOP Assignments\T19 Task\T19 Collection\bin\Debug\T19 Collection.exe
+C:\Users\dell\Documents\OOP Assignments\T19 Task\T19 Collection\bin\Debug\T19 Collection.pdb
+C:\Users\dell\Documents\OOP Assignments\T19 Task\T19 Collection\obj\Debug\T19 Collection.exe
+C:\Users\dell\Documents\OOP Assignments\T19 Task\T19 Collection\obj\Debug\T19 Collection.pdb

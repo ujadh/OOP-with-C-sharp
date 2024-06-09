@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T40 Task\T40 MiniPeppi\obj\Debug\T40 MiniPeppi.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T40 Task\T40 MiniPeppi\obj\Debug\T40 MiniPeppi.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T40 Task\T40 MiniPeppi\bin\Debug\T40 MiniPeppi.exe.config
+C:\Users\dell\Documents\OOP Assignments\T40 Task\T40 MiniPeppi\bin\Debug\T40 MiniPeppi.exe
+C:\Users\dell\Documents\OOP Assignments\T40 Task\T40 MiniPeppi\bin\Debug\T40 MiniPeppi.pdb
+C:\Users\dell\Documents\OOP Assignments\T40 Task\T40 MiniPeppi\obj\Debug\T40 MiniPeppi.exe
+C:\Users\dell\Documents\OOP Assignments\T40 Task\T40 MiniPeppi\obj\Debug\T40 MiniPeppi.pdb

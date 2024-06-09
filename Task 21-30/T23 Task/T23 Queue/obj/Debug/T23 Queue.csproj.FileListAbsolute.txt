@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T23 Task\T23 Queue\bin\Debug\T23 Queue.exe.config
+C:\Users\dell\Documents\OOP Assignments\T23 Task\T23 Queue\bin\Debug\T23 Queue.exe
+C:\Users\dell\Documents\OOP Assignments\T23 Task\T23 Queue\bin\Debug\T23 Queue.pdb
+C:\Users\dell\Documents\OOP Assignments\T23 Task\T23 Queue\obj\Debug\T23 Queue.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T23 Task\T23 Queue\obj\Debug\T23 Queue.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T23 Task\T23 Queue\obj\Debug\T23 Queue.exe
+C:\Users\dell\Documents\OOP Assignments\T23 Task\T23 Queue\obj\Debug\T23 Queue.pdb

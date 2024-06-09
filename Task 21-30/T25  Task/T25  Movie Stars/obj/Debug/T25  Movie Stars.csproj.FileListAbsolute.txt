@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T25  Task\T25  Movie Stars\bin\Debug\T25  Movie Stars.exe.config
+C:\Users\dell\Documents\OOP Assignments\T25  Task\T25  Movie Stars\bin\Debug\T25  Movie Stars.exe
+C:\Users\dell\Documents\OOP Assignments\T25  Task\T25  Movie Stars\bin\Debug\T25  Movie Stars.pdb
+C:\Users\dell\Documents\OOP Assignments\T25  Task\T25  Movie Stars\obj\Debug\T25  Movie Stars.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T25  Task\T25  Movie Stars\obj\Debug\T25  Movie Stars.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T25  Task\T25  Movie Stars\obj\Debug\T25  Movie Stars.exe
+C:\Users\dell\Documents\OOP Assignments\T25  Task\T25  Movie Stars\obj\Debug\T25  Movie Stars.pdb

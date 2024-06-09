@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T33 Task\T33 MailBook with Lambda\bin\Debug\T33 MailBook with Lambda.exe.config
+C:\Users\dell\Documents\OOP Assignments\T33 Task\T33 MailBook with Lambda\bin\Debug\T33 MailBook with Lambda.exe
+C:\Users\dell\Documents\OOP Assignments\T33 Task\T33 MailBook with Lambda\bin\Debug\T33 MailBook with Lambda.pdb
+C:\Users\dell\Documents\OOP Assignments\T33 Task\T33 MailBook with Lambda\obj\Debug\T33 MailBook with Lambda.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T33 Task\T33 MailBook with Lambda\obj\Debug\T33 MailBook with Lambda.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T33 Task\T33 MailBook with Lambda\obj\Debug\T33 MailBook with Lambda.exe
+C:\Users\dell\Documents\OOP Assignments\T33 Task\T33 MailBook with Lambda\obj\Debug\T33 MailBook with Lambda.pdb

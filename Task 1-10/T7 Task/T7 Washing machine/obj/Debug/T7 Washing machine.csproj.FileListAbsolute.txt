@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T7 Task\T7 Washing machine\bin\Debug\T7 Washing machine.exe.config
+C:\Users\dell\Documents\OOP Assignments\T7 Task\T7 Washing machine\bin\Debug\T7 Washing machine.exe
+C:\Users\dell\Documents\OOP Assignments\T7 Task\T7 Washing machine\bin\Debug\T7 Washing machine.pdb
+C:\Users\dell\Documents\OOP Assignments\T7 Task\T7 Washing machine\obj\Debug\T7 Washing machine.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T7 Task\T7 Washing machine\obj\Debug\T7 Washing machine.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T7 Task\T7 Washing machine\obj\Debug\T7 Washing machine.exe
+C:\Users\dell\Documents\OOP Assignments\T7 Task\T7 Washing machine\obj\Debug\T7 Washing machine.pdb

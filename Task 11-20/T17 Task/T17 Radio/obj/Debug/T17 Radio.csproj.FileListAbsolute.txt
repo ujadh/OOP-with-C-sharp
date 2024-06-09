@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\OOP Assignments\T17 Task\T17 Radio\bin\Debug\T17 Radio.exe.config
+C:\Users\dell\Documents\OOP Assignments\T17 Task\T17 Radio\bin\Debug\T17 Radio.exe
+C:\Users\dell\Documents\OOP Assignments\T17 Task\T17 Radio\bin\Debug\T17 Radio.pdb
+C:\Users\dell\Documents\OOP Assignments\T17 Task\T17 Radio\obj\Debug\T17 Radio.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP Assignments\T17 Task\T17 Radio\obj\Debug\T17 Radio.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP Assignments\T17 Task\T17 Radio\obj\Debug\T17 Radio.exe
+C:\Users\dell\Documents\OOP Assignments\T17 Task\T17 Radio\obj\Debug\T17 Radio.pdb
